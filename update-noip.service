@@ -1,0 +1,10 @@
+[Unit]
+Description=Update Ip by No-ip
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/local/bin/updateNoIp.php
+
+[Install]
+WantedBy=dafault.target

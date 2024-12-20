@@ -1,0 +1,10 @@
+[Unit]
+Description=Update IP by No-IP
+
+[Timer]
+OnCalendar=*:0/1
+Persistent=true
+
+[Install]
+WantedBy=timers.target
+
