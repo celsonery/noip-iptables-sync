@@ -4,8 +4,6 @@ A litle PHP script utility for renew IPTABLES firewall rules.
 [![Maintainer](http://img.shields.io/badge/maintainer-@celsonery-blue.svg?style=flat-square)](https://twitter.com/celsonery)
 [![Latest Version](https://img.shields.io/github/release/celsonery/initials.svg?style=flat-square)](https://github.com/celsonery/noip-iptables-sync/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/celsonery/initials.svg?style=flat-square)](https://scrutinizer-ci.com/g/celsonery/noip-iptables-sync)
-[![Quality Score](https://img.shields.io/scrutinizer/g/celsonery/noip-iptables-sync.svg?style=flat-square)](https://scrutinizer-ci.com/g/celsonery/noip-iptables-sync)
 
 ## Requirements
 PHP-CLI, SQLITE3 and PHP-SQLITE3
